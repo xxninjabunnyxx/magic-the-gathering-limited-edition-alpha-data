@@ -1,0 +1,113 @@
+---
+object: card
+id: 31c687dc-ee0c-4e54-a2b3-5d8e633b3245
+oracle_id: 38aa31bd-7145-43b9-9409-463d9ad6cd69
+multiverse_ids:
+- 227
+tcgplayer_id: 1292
+cardmarket_id: 5413
+name: Two-Headed Giant of Foriys
+lang: en
+released_at: '1993-08-05'
+uri: https://api.scryfall.com/cards/31c687dc-ee0c-4e54-a2b3-5d8e633b3245
+scryfall_uri: https://scryfall.com/card/lea/179/two-headed-giant-of-foriys?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/3/1/31c687dc-ee0c-4e54-a2b3-5d8e633b3245.jpg?1559591539
+  normal: https://cards.scryfall.io/normal/front/3/1/31c687dc-ee0c-4e54-a2b3-5d8e633b3245.jpg?1559591539
+  large: https://cards.scryfall.io/large/front/3/1/31c687dc-ee0c-4e54-a2b3-5d8e633b3245.jpg?1559591539
+  png: https://cards.scryfall.io/png/front/3/1/31c687dc-ee0c-4e54-a2b3-5d8e633b3245.png?1559591539
+  art_crop: https://cards.scryfall.io/art_crop/front/3/1/31c687dc-ee0c-4e54-a2b3-5d8e633b3245.jpg?1559591539
+  border_crop: https://cards.scryfall.io/border_crop/front/3/1/31c687dc-ee0c-4e54-a2b3-5d8e633b3245.jpg?1559591539
+mana_cost: "{4}{R}"
+cmc: 5.0
+type_line: Creature — Giant
+oracle_text: |-
+  Trample
+  Two-Headed Giant of Foriys can block an additional creature each combat.
+power: '4'
+toughness: '4'
+colors:
+- R
+color_identity:
+- R
+keywords:
+- Trample
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: true
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 288bd996-960e-448b-a187-9504c1930c2c
+set: lea
+set_name: Limited Edition Alpha
+set_type: core
+set_uri: https://api.scryfall.com/sets/288bd996-960e-448b-a187-9504c1930c2c
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Alea&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/lea?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/31c687dc-ee0c-4e54-a2b3-5d8e633b3245/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A38aa31bd-7145-43b9-9409-463d9ad6cd69&unique=prints
+collector_number: '179'
+digital: false
+rarity: rare
+flavor_text: None know if this Giant is the result of aberrant magics, Siamese twins,
+  or a mentalist's schizophrenia.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Anson Maddocks
+artist_ids:
+- 634430a7-b5c3-4e4a-b2ac-164e084e47c9
+illustration_id: fc1a9f60-e104-4eec-a885-022baade17c1
+border_color: black
+frame: '1993'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 23901
+penny_rank: 8985
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: '1000.00'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=227
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Two-Headed+Giant+of+Foriys&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Two-Headed+Giant+of+Foriys&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Two-Headed+Giant+of+Foriys
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/1292?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Two-Headed+Giant+of+Foriys&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Two-Headed+Giant+of+Foriys&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

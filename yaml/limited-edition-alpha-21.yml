@@ -1,0 +1,107 @@
+---
+object: card
+id: 0f84d676-5327-454c-a033-b4498a9d28e2
+oracle_id: 1a91ca69-e890-41dc-866b-3aabf10c9a9c
+multiverse_ids:
+- 252
+tcgplayer_id: 1134
+cardmarket_id: 5438
+name: Guardian Angel
+lang: en
+released_at: '1993-08-05'
+uri: https://api.scryfall.com/cards/0f84d676-5327-454c-a033-b4498a9d28e2
+scryfall_uri: https://scryfall.com/card/lea/21/guardian-angel?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/0/f/0f84d676-5327-454c-a033-b4498a9d28e2.jpg?1559591581
+  normal: https://cards.scryfall.io/normal/front/0/f/0f84d676-5327-454c-a033-b4498a9d28e2.jpg?1559591581
+  large: https://cards.scryfall.io/large/front/0/f/0f84d676-5327-454c-a033-b4498a9d28e2.jpg?1559591581
+  png: https://cards.scryfall.io/png/front/0/f/0f84d676-5327-454c-a033-b4498a9d28e2.png?1559591581
+  art_crop: https://cards.scryfall.io/art_crop/front/0/f/0f84d676-5327-454c-a033-b4498a9d28e2.jpg?1559591581
+  border_crop: https://cards.scryfall.io/border_crop/front/0/f/0f84d676-5327-454c-a033-b4498a9d28e2.jpg?1559591581
+mana_cost: "{X}{W}"
+cmc: 1.0
+type_line: Instant
+oracle_text: Prevent the next X damage that would be dealt to any target this turn.
+  Until end of turn, you may pay {1} any time you could cast an instant. If you do,
+  prevent the next 1 damage that would be dealt to that permanent or player this turn.
+colors:
+- W
+color_identity:
+- W
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 288bd996-960e-448b-a187-9504c1930c2c
+set: lea
+set_name: Limited Edition Alpha
+set_type: core
+set_uri: https://api.scryfall.com/sets/288bd996-960e-448b-a187-9504c1930c2c
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Alea&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/lea?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/0f84d676-5327-454c-a033-b4498a9d28e2/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A1a91ca69-e890-41dc-866b-3aabf10c9a9c&unique=prints
+collector_number: '21'
+digital: false
+rarity: common
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Anson Maddocks
+artist_ids:
+- 634430a7-b5c3-4e4a-b2ac-164e084e47c9
+illustration_id: 500fad0d-a65d-4ad6-9b4e-70061a03b917
+border_color: black
+frame: '1993'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 24543
+prices:
+  usd: '19.34'
+  usd_foil: 
+  usd_etched: 
+  eur: '19.00'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=252
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Guardian+Angel&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Guardian+Angel&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Guardian+Angel
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/1134?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Guardian+Angel&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Guardian+Angel&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

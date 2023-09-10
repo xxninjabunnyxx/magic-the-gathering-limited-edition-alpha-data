@@ -1,0 +1,105 @@
+---
+object: card
+id: 04b31611-9053-4eaf-b392-21bb644fef5f
+oracle_id: 5a46ad2a-35b1-4dd5-b7c3-fec36b7c67ab
+multiverse_ids:
+- 85
+tcgplayer_id: 1259
+cardmarket_id: 5271
+name: Sinkhole
+lang: en
+released_at: '1993-08-05'
+uri: https://api.scryfall.com/cards/04b31611-9053-4eaf-b392-21bb644fef5f
+scryfall_uri: https://scryfall.com/card/lea/129/sinkhole?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/0/4/04b31611-9053-4eaf-b392-21bb644fef5f.jpg?1559591571
+  normal: https://cards.scryfall.io/normal/front/0/4/04b31611-9053-4eaf-b392-21bb644fef5f.jpg?1559591571
+  large: https://cards.scryfall.io/large/front/0/4/04b31611-9053-4eaf-b392-21bb644fef5f.jpg?1559591571
+  png: https://cards.scryfall.io/png/front/0/4/04b31611-9053-4eaf-b392-21bb644fef5f.png?1559591571
+  art_crop: https://cards.scryfall.io/art_crop/front/0/4/04b31611-9053-4eaf-b392-21bb644fef5f.jpg?1559591571
+  border_crop: https://cards.scryfall.io/border_crop/front/0/4/04b31611-9053-4eaf-b392-21bb644fef5f.jpg?1559591571
+mana_cost: "{B}{B}"
+cmc: 2.0
+type_line: Sorcery
+oracle_text: Destroy target land.
+colors:
+- B
+color_identity:
+- B
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: banned
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 288bd996-960e-448b-a187-9504c1930c2c
+set: lea
+set_name: Limited Edition Alpha
+set_type: core
+set_uri: https://api.scryfall.com/sets/288bd996-960e-448b-a187-9504c1930c2c
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Alea&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/lea?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/04b31611-9053-4eaf-b392-21bb644fef5f/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A5a46ad2a-35b1-4dd5-b7c3-fec36b7c67ab&unique=prints
+collector_number: '129'
+digital: false
+rarity: common
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Sandra Everingham
+artist_ids:
+- 8a8ac2c8-84c9-4274-9960-a19a97f0bde5
+illustration_id: 2f21afec-1697-4496-95dd-0609dfacb372
+border_color: black
+frame: '1993'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 13805
+prices:
+  usd: '194.01'
+  usd_foil: 
+  usd_etched: 
+  eur: '279.99'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=85
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Sinkhole&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Sinkhole&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Sinkhole
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/1259?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Sinkhole&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Sinkhole&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

@@ -1,0 +1,106 @@
+---
+object: card
+id: 57ff74cb-a2ed-4123-ac42-f72f9820049e
+oracle_id: 6e880df6-fc00-43d2-a9c8-f575f40b78c6
+multiverse_ids:
+- 225
+tcgplayer_id: 1269
+cardmarket_id: 5411
+name: Stone Rain
+lang: en
+released_at: '1993-08-05'
+uri: https://api.scryfall.com/cards/57ff74cb-a2ed-4123-ac42-f72f9820049e
+scryfall_uri: https://scryfall.com/card/lea/177/stone-rain?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/5/7/57ff74cb-a2ed-4123-ac42-f72f9820049e.jpg?1559591340
+  normal: https://cards.scryfall.io/normal/front/5/7/57ff74cb-a2ed-4123-ac42-f72f9820049e.jpg?1559591340
+  large: https://cards.scryfall.io/large/front/5/7/57ff74cb-a2ed-4123-ac42-f72f9820049e.jpg?1559591340
+  png: https://cards.scryfall.io/png/front/5/7/57ff74cb-a2ed-4123-ac42-f72f9820049e.png?1559591340
+  art_crop: https://cards.scryfall.io/art_crop/front/5/7/57ff74cb-a2ed-4123-ac42-f72f9820049e.jpg?1559591340
+  border_crop: https://cards.scryfall.io/border_crop/front/5/7/57ff74cb-a2ed-4123-ac42-f72f9820049e.jpg?1559591340
+mana_cost: "{2}{R}"
+cmc: 3.0
+type_line: Sorcery
+oracle_text: Destroy target land.
+colors:
+- R
+color_identity:
+- R
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 288bd996-960e-448b-a187-9504c1930c2c
+set: lea
+set_name: Limited Edition Alpha
+set_type: core
+set_uri: https://api.scryfall.com/sets/288bd996-960e-448b-a187-9504c1930c2c
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Alea&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/lea?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/57ff74cb-a2ed-4123-ac42-f72f9820049e/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A6e880df6-fc00-43d2-a9c8-f575f40b78c6&unique=prints
+collector_number: '177'
+digital: false
+rarity: common
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Daniel Gelon
+artist_ids:
+- 63ac31a8-dd1a-4679-9f82-ece89429a084
+illustration_id: e49a1b3f-2875-4fe3-bd84-240ad647b69a
+border_color: black
+frame: '1993'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 10183
+penny_rank: 709
+prices:
+  usd: '63.00'
+  usd_foil: 
+  usd_etched: 
+  eur: '55.00'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=225
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Stone+Rain&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Stone+Rain&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Stone+Rain
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/1269?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Stone+Rain&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Stone+Rain&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
